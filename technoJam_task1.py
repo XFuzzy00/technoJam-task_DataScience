@@ -19,4 +19,4 @@ print(reverse_url) # Reverse the url
 print(top_level_domain) # Get the top level domain
 print(ommiting) # Print the url without the http://
 print(ommiting_again) # Print the url without the http:// or the top level domain
-print() #list[start:end:stop]
+print(my_list[::-1]) #list[start:end:stop]
