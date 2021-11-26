@@ -10,8 +10,8 @@ Challenges : Difficult to find good explanations for a lot of pandas library fun
              Working on a new IDE (PyCharm) I got to learn new things and experienced little difficulty.
              
 ### Web Development
-Approach : I designed a layout in Figma (Prototyping Software) and coded the website in Visual Studio with Figma as reference.
-           Took some inspiration from websites such as https://www.spotify.com/in-en/ or https://www.resso.app/in that have minimilist yet impactful designs.
+Approach : I designed a layout in Figma (Prototyping Software) and coded the website in Visual Studio with Figma as reference.\n
+           Took some inspiration from websites such as [Spotify](https://www.spotify.com/in-en/) or [Resso](https://www.resso.app/in) that have minimilist yet impactful designs.
    
 Challenges : Had to learn Grid System from bottom up because I am used to Flex Box but I wanted to try and learn some new things.
              The ::after selector was complicated yet the most used or useful tool in the above project. It made the program a bit interactive.
